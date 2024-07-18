@@ -18,7 +18,7 @@ import java.util.Scanner;
         int idade = scanner.nextInt();
         
         System.out.println("Digite sua altura");
-        double altura = scanner.nextDouble();
+        int altura = scanner.nextInt();
 
         
         //imprimindo os dados obtidos pelo usuario
